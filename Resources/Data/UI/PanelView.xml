@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<element type="BorderImage">
+    <attribute name="Layout Mode" value="Vertical" />
+    <attribute name="Max Size" value="368 9999" />
+    <attribute name="Image Rect" value="18 106 30 118" />
+    <attribute name="Border" value="4 4 4 4" />
+    <element type="TabBar">
+        <attribute name="Name" value="TabBar" />
+        <attribute name="TabsClosable" value="true" />
+    </element>
+
+    <element type="ScrollView">
+        <attribute name="Name" value="ScrollView" />
+        <element type="BorderImage" internal="true">
+            <attribute name="Image Rect" value="66 106 77 117" />
+            <attribute name="Border" value="4 4 4 4" />
+            <attribute name="Hover Image Offset" value="0 0" />
+        <element type="Text">
+            <attribute name="Text" value="Panel is empty !" />
+            <attribute name="Vert Alignment" value="Center" />
+            <attribute name="Horiz Alignment" value="Center" />
+        </element>
+        </element>
+        <element type="ScrollBar" internal="true" style="none">
+            <attribute name="Size" value="332 16" />
+            <element type="Button" internal="true" style="none" />
+            <element type="Slider" internal="true" style="none">
+                <attribute name="Position" value="16 0" />
+                <attribute name="Size" value="300 16" />
+                <element type="BorderImage" internal="true" style="none" />
+            </element>
+            <element type="Button" internal="true" style="none">
+                <attribute name="Position" value="316 0" />
+            </element>
+        </element>
+        <element type="ScrollBar" internal="true" style="none">
+            <attribute name="Size" value="16 394" />
+            <element type="Button" internal="true" style="none" />
+            <element type="Slider" internal="true" style="none">
+                <attribute name="Position" value="0 16" />
+                <attribute name="Size" value="16 362" />
+                <element type="BorderImage" internal="true" style="none" />
+            </element>
+            <element type="Button" internal="true" style="none">
+                <attribute name="Position" value="0 378" />
+            </element>
+        </element>
+    </element>
+</element>

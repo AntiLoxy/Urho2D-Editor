@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<element>
+    <attribute name="Layout Mode" value="Vertical" />
+    <element>
+        <attribute name="Name" value="TopBlock" />
+        <attribute name="Layout Mode" value="Vertical" />
+        <attribute name="Layout Flex Scale" value="1 0" />
+    </element>
+    <element>
+        <attribute name="Name" value="MiddleBlock" />
+        <attribute name="Layout Mode" value="Horizontal" />
+        <attribute name="Layout Flex Scale" value="1 2" />
+    </element>
+</element>

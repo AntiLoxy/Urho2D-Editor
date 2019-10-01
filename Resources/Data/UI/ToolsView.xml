@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<element>
+    <attribute name="Layout Mode" value="Horizontal" />
+    <element type="ToolBar">
+        <attribute name="Name" value="ToolBar" />
+    </element>
+</element>

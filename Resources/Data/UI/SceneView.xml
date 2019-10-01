@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<element>
+    <attribute name="Layout Mode" value="Vertical" />
+    <element>
+        <attribute name="Name" value="Fill" />
+    </element>
+</element>

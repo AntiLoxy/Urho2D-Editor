@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<element type="BorderImage">
+    <attribute name="Layout Mode" value="Vertical" />
+    <attribute name="Image Rect" value="18 106 30 118" />
+    <attribute name="Border" value="4 4 4 4" />
+    <element type="Text">
+        <attribute name="Name" value="InfoText" />
+        <attribute name="Text" value="Panel is empty !" />
+        <attribute name="Horiz Alignment" value="Left" />
+    </element>
+</element>
