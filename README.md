@@ -41,6 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
  - Move node in scene hierarchy list (by drag'n'drop)
  - Create CollisionChain2D tool
  - Create new node from prefab file
+ - Export node to prefab file
 
 and mores !
 
