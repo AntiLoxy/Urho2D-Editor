@@ -1,6 +1,8 @@
 
 # Urho2D-Editor
 Editor specially designed to create two-dimensions scenes with the Urho3D game engine.
+It's quite handy if you want to edit your nodes and collision shapes in two-dimensions world.
+The final goal is to propose an alternative of TMX file parsing and work directly with Urho3D scene format.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine
